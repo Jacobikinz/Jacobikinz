@@ -1,4 +1,9 @@
-### Hi there 👋
+### Born to do math
+## Forced to write code
+:(
+
+
+Ask me about my other github account...
 
 <!--
 **Jacobikinz/Jacobikinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
